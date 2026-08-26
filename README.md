@@ -232,6 +232,6 @@ This project demonstrates:
 ### Ankita Dnyanoba Shinde
 
 GitHub:
-https://github.com/theankita
+https://github.com/ankitashhinde
 
 **Project Type:** Python Automation & System Monitoring Project
